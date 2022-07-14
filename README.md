@@ -3,7 +3,7 @@
 super easy pdf to text for korean using [tesseract-ocr](https://github.com/tesseract-ocr/tesseract) with docker
 
 
-# run
+# Run
 Open your terminal and run below command (needs docker)
 ```sh
   ./scripts/build.sh
